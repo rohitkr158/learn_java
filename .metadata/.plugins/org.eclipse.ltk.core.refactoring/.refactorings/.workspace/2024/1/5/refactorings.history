@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;app_java_12_functional_interface&apos;" deleteContents="false" description="Delete resource &apos;app_java_12_functional_interface&apos;" element1="/app_java_12_functional_interface" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1706616158653"/>
+</session>

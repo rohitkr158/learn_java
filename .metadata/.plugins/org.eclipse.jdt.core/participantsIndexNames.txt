@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+F:\learn_java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3902478405.index
+\1_registration_app\src\main\java
+F:\learn_java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2835100262.index
+\1_registration_app\src\main\java
+F:\learn_java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3960318856.index
+\web_app_6_mvc\src\main\java
+F:\learn_java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2098987326.index
+\web_app_5_jsp\src\main\java
+F:\learn_java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2566925055.index
+\web_app_2_login\src\main\java

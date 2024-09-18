@@ -1,0 +1,12 @@
+127.0.0.1 - - [09/Apr/2024:14:52:42 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [09/Apr/2024:14:52:45 +0530] "GET /web_app_4_session_variable/welcome.html HTTP/1.1" 200 305
+0:0:0:0:0:0:0:1 - - [09/Apr/2024:14:52:46 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [09/Apr/2024:14:53:06 +0530] "POST /web_app_4_session_variable/firstServlet HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [09/Apr/2024:14:53:58 +0530] "GET /prac2/welcome.html HTTP/1.1" 200 331
+0:0:0:0:0:0:0:1 - - [09/Apr/2024:14:54:04 +0530] "POST /prac2/first HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [09/Apr/2024:14:55:28 +0530] "POST /prac2/first HTTP/1.1" 200 -
+127.0.0.1 - - [09/Apr/2024:16:02:46 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [09/Apr/2024:16:02:46 +0530] "GET /prac2/second HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [09/Apr/2024:16:02:47 +0530] "GET /prac2/second HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [09/Apr/2024:16:04:33 +0530] "GET /web_app_5_jsp/scriptletTag.jsp HTTP/1.1" 200 164
+0:0:0:0:0:0:0:1 - - [09/Apr/2024:16:06:13 +0530] "GET /web_app_5_jsp/scriptletTag1.jsp HTTP/1.1" 500 4033

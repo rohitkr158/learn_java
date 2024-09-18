@@ -1,0 +1,12 @@
+127.0.0.1 - - [14/Apr/2024:20:17:15 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/Apr/2024:20:17:19 +0530] "GET /1_registration_app/login.jsp HTTP/1.1" 200 439
+0:0:0:0:0:0:0:1 - - [14/Apr/2024:20:17:21 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [14/Apr/2024:20:23:07 +0530] "POST /1_registration_app/verifyLogin HTTP/1.1" 200 829
+0:0:0:0:0:0:0:1 - - [14/Apr/2024:20:23:32 +0530] "GET /1_registration_app/listRegistration HTTP/1.1" 200 599
+0:0:0:0:0:0:0:1 - - [14/Apr/2024:20:23:37 +0530] "GET /1_registration_app/addReg HTTP/1.1" 200 829
+0:0:0:0:0:0:0:1 - - [14/Apr/2024:20:24:05 +0530] "POST /1_registration_app/addReg HTTP/1.1" 200 829
+0:0:0:0:0:0:0:1 - - [14/Apr/2024:20:24:09 +0530] "GET /1_registration_app/listRegistration HTTP/1.1" 200 885
+0:0:0:0:0:0:0:1 - - [14/Apr/2024:20:24:13 +0530] "GET /1_registration_app/updateRegistration?email=vyas@gmail.com&mobile=9876543211 HTTP/1.1" 200 765
+0:0:0:0:0:0:0:1 - - [14/Apr/2024:20:24:24 +0530] "POST /1_registration_app/updateRegistration HTTP/1.1" 200 885
+0:0:0:0:0:0:0:1 - - [14/Apr/2024:20:24:28 +0530] "GET /1_registration_app/deleteRegistration?email=vyas@gmail.com HTTP/1.1" 200 599
+0:0:0:0:0:0:0:1 - - [14/Apr/2024:20:24:31 +0530] "POST /1_registration_app/logOut HTTP/1.1" 200 439

@@ -1,0 +1,10 @@
+127.0.0.1 - - [27/Mar/2024:13:11:42 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Mar/2024:13:11:51 +0530] "GET /1_registration_app/WEB-INF/views/delete_registration.jsp HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [27/Mar/2024:13:11:52 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [27/Mar/2024:13:12:00 +0530] "GET /1_registration_app/addReg HTTP/1.1" 200 -
+127.0.0.1 - - [27/Mar/2024:13:16:10 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Mar/2024:13:16:11 +0530] "GET /1_registration_app/WEB-INF/views/delete_registration.jsp HTTP/1.1" 404 682
+127.0.0.1 - - [27/Mar/2024:13:33:20 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Mar/2024:13:33:20 +0530] "GET /1_registration_app/login.jsp HTTP/1.1" 200 401
+0:0:0:0:0:0:0:1 - - [27/Mar/2024:13:33:32 +0530] "POST /1_registration_app/verifyLogin HTTP/1.1" 200 460
+0:0:0:0:0:0:0:1 - - [27/Mar/2024:13:33:49 +0530] "POST /1_registration_app/addReg HTTP/1.1" 200 460

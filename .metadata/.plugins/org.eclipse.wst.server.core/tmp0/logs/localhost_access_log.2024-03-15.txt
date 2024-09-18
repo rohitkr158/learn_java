@@ -1,0 +1,13 @@
+127.0.0.1 - - [15/Mar/2024:12:37:23 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:12:37:25 +0530] "GET /web_app_5_jsp/scriptletTag1.jsp HTTP/1.1" 500 5934
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:12:37:26 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:13:20:01 +0530] "GET /web_app_5_jsp/declarationTag.jsp HTTP/1.1" 500 3295
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:13:26:18 +0530] "GET /web_app_5_jsp/declarationTag.jsp HTTP/1.1" 500 2164
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:13:27:06 +0530] "GET /web_app_5_jsp/declarationTag.jsp HTTP/1.1" 200 164
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:13:33:19 +0530] "GET /web_app_5_jsp/expressionTag.jsp HTTP/1.1" 200 159
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:13:39:27 +0530] "GET /web_app_5_jsp/directiveTag.jsp HTTP/1.1" 200 141
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:13:41:57 +0530] "GET /web_app_5_jsp/directiveTag.jsp HTTP/1.1" 200 175
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:13:42:20 +0530] "GET /web_app_5_jsp/directiveTag.jsp HTTP/1.1" 200 175
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:13:52:06 +0530] "GET /web_app_5_jsp/scriptletTag1.jsp HTTP/1.1" 500 5740
+127.0.0.1 - - [15/Mar/2024:16:58:11 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/Mar/2024:16:58:14 +0530] "GET /web_app_6_mvc/addNumbers.jsp HTTP/1.1" 200 349

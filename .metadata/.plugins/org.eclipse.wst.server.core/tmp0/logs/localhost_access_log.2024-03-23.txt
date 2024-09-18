@@ -1,0 +1,15 @@
+127.0.0.1 - - [23/Mar/2024:00:29:45 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [23/Mar/2024:00:29:46 +0530] "GET /1_registration_app/login.jsp HTTP/1.1" 200 401
+0:0:0:0:0:0:0:1 - - [23/Mar/2024:00:29:59 +0530] "POST /1_registration_app/verifyLogin HTTP/1.1" 200 460
+0:0:0:0:0:0:0:1 - - [23/Mar/2024:00:30:12 +0530] "POST /1_registration_app/addReg HTTP/1.1" 200 -
+127.0.0.1 - - [23/Mar/2024:00:37:21 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [23/Mar/2024:00:38:02 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [23/Mar/2024:00:38:23 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [23/Mar/2024:00:38:41 +0530] "GET /1_registration_app/addReg HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [23/Mar/2024:00:38:45 +0530] "GET /1_registration_app/addReg HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [23/Mar/2024:00:38:52 +0530] "GET /1_registration_app/login.jsp HTTP/1.1" 200 401
+0:0:0:0:0:0:0:1 - - [23/Mar/2024:00:39:01 +0530] "POST /1_registration_app/verifyLogin HTTP/1.1" 200 460
+0:0:0:0:0:0:0:1 - - [23/Mar/2024:00:39:12 +0530] "POST /1_registration_app/addReg HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [23/Mar/2024:00:46:01 +0530] "POST /1_registration_app/addReg HTTP/1.1" 200 460
+0:0:0:0:0:0:0:1 - - [23/Mar/2024:00:46:16 +0530] "POST /1_registration_app/addReg HTTP/1.1" 200 460
+0:0:0:0:0:0:0:1 - - [23/Mar/2024:00:46:31 +0530] "POST /1_registration_app/addReg HTTP/1.1" 200 460
